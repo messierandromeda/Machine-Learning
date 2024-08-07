@@ -1,5 +1,3 @@
 # Machine-Learning
 
-- Jupyter Notebooks in TensorFlow:
-  -  Autoencoders
-  - Classification  
+Here are some machine learning algorithms that I've implemented. 
