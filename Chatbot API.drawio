@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
+  <diagram name="Page-1" id="1KPBD8851XFPFAti9frW">
+    <mxGraphModel dx="708" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W5UPSt7aWASqb0SpG_ng-1" target="W5UPSt7aWASqb0SpG_ng-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-1" value="User opens app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="80" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W5UPSt7aWASqb0SpG_ng-2" target="W5UPSt7aWASqb0SpG_ng-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W5UPSt7aWASqb0SpG_ng-2" target="W5UPSt7aWASqb0SpG_ng-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-2" value="Types in username and password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W5UPSt7aWASqb0SpG_ng-4" target="W5UPSt7aWASqb0SpG_ng-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-4" value="User logged in" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W5UPSt7aWASqb0SpG_ng-6" target="W5UPSt7aWASqb0SpG_ng-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W5UPSt7aWASqb0SpG_ng-6" target="W5UPSt7aWASqb0SpG_ng-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-6" value="Selects chatbot&#39;s character" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-9" value="Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="18" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-10" value="&lt;div&gt;Local server&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="23" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="W5UPSt7aWASqb0SpG_ng-14" target="W5UPSt7aWASqb0SpG_ng-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-14" value="Authentication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-18" value="Authentication success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="230" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.574;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="W5UPSt7aWASqb0SpG_ng-14" target="W5UPSt7aWASqb0SpG_ng-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-23" value="Authentication failed" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W5UPSt7aWASqb0SpG_ng-24" target="W5UPSt7aWASqb0SpG_ng-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W5UPSt7aWASqb0SpG_ng-24" target="W5UPSt7aWASqb0SpG_ng-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-24" value="Types into chat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="455" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369.9999999999999" y="370.75" as="sourcePoint" />
+            <mxPoint x="160" y="370.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-26" value="Loads the selected character" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="350" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-28" value="POST request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-29" value="Chatbot&#39;s response" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="120" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-35" value="show character&#39;s description&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="370" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W5UPSt7aWASqb0SpG_ng-36" target="W5UPSt7aWASqb0SpG_ng-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W5UPSt7aWASqb0SpG_ng-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="530" />
+              <mxPoint x="140" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-36" value="Get the pretrained model from an API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="450" width="125" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W5UPSt7aWASqb0SpG_ng-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="481" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="537" y="480" />
+              <mxPoint x="537" y="481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-38" value="Loading the pretrained model from Huggingface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="447.5" width="137.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-42" value="Huggingface model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="23" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W5UPSt7aWASqb0SpG_ng-45" value="GET" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="440" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
